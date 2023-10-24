@@ -1,0 +1,16 @@
+{
+    "name": "Devoteam.Character",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d93b1fc1ef7155f48a67eaff04354fe9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
